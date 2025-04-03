@@ -3,6 +3,7 @@
 Un jeu Snake développé avec **React Native**, **Expo** et **NativeWind**. 🎮
 
 ## 📸 Aperçu
+![image](https://github.com/user-attachments/assets/0d79f45b-322f-450f-91b5-3169a033021b)
 
 ## 🚀 Fonctionnalités
 - 🎮 Jouabilité fluide avec commandes tactiles  
@@ -17,34 +18,6 @@ Assurez-vous d'avoir installé **Node.js** et **Expo CLI** :
 
 ```sh
 npm install -g expo-cli```
-
-Voici un **README.md** bien structuré pour ton jeu Snake développé avec **Expo** et **NativeWind**. Je vais inclure une présentation, les instructions d'installation et d'utilisation, ainsi que quelques captures d'écran. 😊  
-
----
-
-### 🐍 **Snake Game - Expo & NativeWind**  
-
-```markdown
-# 🐍 Snake Game - Expo & NativeWind
-
-Un jeu Snake développé avec **React Native**, **Expo** et **NativeWind**. 🎮
-
-## 📸 Aperçu
-![Snake Game Preview](https://your-image-link-here.com)
-
-## 🚀 Fonctionnalités
-- 🎮 Jouabilité fluide avec commandes tactiles  
-- 🌟 Design moderne avec NativeWind  
-- 📱 Compatible Android & iOS  
-
-## 🛠 Installation et Exécution
-
-### 1️⃣ Prérequis
-Assurez-vous d'avoir installé **Node.js** et **Expo CLI** :
-
-```sh
-npm install -g expo-cli
-```
 
 ### 2️⃣ Cloner le projet
 ```sh
