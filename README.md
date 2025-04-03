@@ -34,6 +34,10 @@ npm install
 ```sh
 npx expo start
 ```
+ou
+```sh
+npm run dev
+```
 Scannez le QR code avec **Expo Go** sur votre smartphone.
 
 ## 📦 Technologies utilisées
